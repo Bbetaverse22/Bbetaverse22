@@ -23,3 +23,7 @@ I am a software engineer from US
 
 ## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Bbetaverse22&theme=dark">
+
+## Used Languages:
+
+![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbetaverse22&show_icons=true&theme=algolia&hide_border=true)
