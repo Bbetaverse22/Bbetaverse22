@@ -2,7 +2,7 @@
 ### Hello World 👋
 I am a software engineer from US
 - 🔭 I’m currently working as a Software Test Engineer and implementing e2e tests into an automation framework by using Node.js, Javscript ES6 and Selenium
-- 🌱 Currently learning on designing and developing software applications with Spring Booth and Java
+- 🌱 Currently learning on designing and developing software applications.
 <br>
 ## Connect with me
 
